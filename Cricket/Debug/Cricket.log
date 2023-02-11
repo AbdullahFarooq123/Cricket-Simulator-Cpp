@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\hp\source\repos\Cricket\Cricket\Main.cpp(45): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\hp\source\repos\Cricket\Cricket\Main.cpp(73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cricket.vcxproj -> C:\Users\hp\source\repos\Cricket\Debug\Cricket.exe
